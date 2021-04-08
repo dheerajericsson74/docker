@@ -5,7 +5,7 @@ services:
 before_install:
  - docker build -t dheerajmportal/docker -f Dockerfile.dev .
 
-before_script: chmod 0555 ./node_modules/.bin/jest
+#before_script: chmod 0555 ./node_modules/.bin/jest
 
 script:
  - docker run -e CI=true dheerajmportal/docker npm run test
