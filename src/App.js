@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Infinite  Leamon choose le chaman chappu  maha ullu ladke  :).
+         Infinite  Leamon choose le Chaman - chappu  Maha Ullu Chamu Lundey Babhad  !!!!
         </p>
         <a
           className="App-link"
